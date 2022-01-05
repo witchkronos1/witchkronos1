@@ -3,8 +3,7 @@
 
 - 🔭 Quero trabalhar como Back-end
 - 🌱 Estou aprendendo: python, SQL
-- 😄 Pronouns: she/he
-- Estou aqui para aprender e praticar o que ja aprendi, mesmo sendo iniciante como desenvolvedor.
+- 😄 Estou aqui para aprender e praticar o que ja aprendi, mesmo sendo iniciante como desenvolvedor.
 ##
 <div style="display: inline_block"><br>
   <img align="right" alt="witch-gif" height="130" widtg="140" src="https://cdn.discordapp.com/attachments/928309575273287772/928343565178896394/Webp.net-gifmaker.gif" />
