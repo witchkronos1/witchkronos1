@@ -1,4 +1,4 @@
-## Oi, Sou witchkronos mas pode me chamar de WK. 
+## Oi, sou witchkronos ou WK. 
 
 
 - 🔭 Quero trabalhar como Back-end
